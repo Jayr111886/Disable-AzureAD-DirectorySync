@@ -16,7 +16,7 @@ This repository provides a PowerShell script that disables directory synchroniza
 
 1. Clone the repository or download the script:
     ```bash
-    git clone https://github.com/Jayr111886/Disable-AzureAD-DirectorySync.git
+    git clone https://github.com/RubenAQuispe/Disable-AzureAD-DirectorySync.git
     ```
 
 2. Install the Microsoft Graph PowerShell module (if not already installed):
